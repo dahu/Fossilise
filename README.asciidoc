@@ -1,0 +1,20 @@
+Fossilise
+---------
+
+__poor man's collaborative editing in vim__
+
+Fossilise uses the http://www.fossil-scm.org/[Fossil] version control
+system to synchronise changes between editors.
+
+To test this you need to `:source fossilise.vim` and then run
+`:Fossilise` in each of the editor sessions.
+
+.Synchronising changes across multiple editors:
+
+* make changes to this file here and save
+* move your cursor in the clone and it will sync with this file
+* make changes there and save; move your cursor here to see them
+
+This is very much just an experiment at this stage. It will probably
+never be anything more than that. The updates are woefully slow.
+Interesting to play with for a bit though.

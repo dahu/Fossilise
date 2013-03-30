@@ -1,0 +1,5 @@
+* make changes to this file here and save
+* move your cursor in the clone and it will sync with this file
+* make changes there and save; move your cursor here to see them
+
+ vim: filetype=asciidoc shiftwidth=4 nospell updatetime=400
